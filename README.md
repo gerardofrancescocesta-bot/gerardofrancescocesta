@@ -19,7 +19,7 @@ Attualmente sto espandendo il mio stack tecnico tramite i corsi **CS50's Harvard
 ### 🛠 Tech & Tools Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,sql,html,css,vscode,git,github,excel" />
+    <img src="https://skillicons.dev/icons?i=python,c,sql,sqlite,html,css,vscode,git,github,excel,docker,bash" />
   </a>
 </p>
 
