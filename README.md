@@ -2,7 +2,7 @@
 
 ### 📊 Head of Control Management | Data Analysis Enthusiast | Economics Student
 
-Sono un professionista nel settore **Automotive** e studente di **Economia delle Imprese Finanziarie** presso l'Università degli Studi di Napoli Federico II. Unisco competenze manageriali solide con una passione crescente per l'analisi dati e lo sviluppo software.
+Sono un professionista nel settore **Automotive** e studente di **Economia delle Imprese Finanziarie** presso l'Università degli Studi di Napoli Federico II. Unisco competenze manageriali solide con una passione crescente per l'analisi dati, il problem solving e lo sviluppo software.
 
 Attualmente sto espandendo il mio stack tecnico tramite i corsi **CS50's HarvardX** e **MITx CSAIL: AI Implications for Business Strategy** per applicare logiche computazionali al business management.
 
@@ -10,9 +10,9 @@ Attualmente sto espandendo il mio stack tecnico tramite i corsi **CS50's Harvard
 
 ### 🔭 Su di me
 * 💼 **Lavoro:** Head of Control Management presso LP Rent (Ottimizzazione processi, Business Analysis).
-* 🎓 **Studio:** Laureando in Economia & Statistica + CS50x (Harvard Online).
-* 🧠 **Interessi:** Intelligenza Artificiale per il business, Imprenditorialità (Certificato MITx), Automotive.
-* 🌍 **Lingue:** Italiano (Nativo), Inglese (C1/Full Professional), Francese (Base), Giapponese (Base).
+* 🎓 **Studio:** Laureando in Economia & Statistica + CS50x (Harvard Online) + CSAIL (MITx).
+* 🧠 **Interessi:** Intelligenza Artificiale per il business, Imprenditorialità (Certificato MITx), Finance.
+* 🌍 **Lingue:** Italiano (Nativo), Inglese (C1/Full Professional), Francese (Base).
 
 ---
 
